@@ -1,8 +1,8 @@
 # InformationSearch
 
-## Task1
+### Task1
 
 Необходимые библиотеки:
-pip install html2text 
-pip install requests
-pip install beautifulsoup4
+* pip install html2text 
+* pip install requests
+* pip install beautifulsoup4
